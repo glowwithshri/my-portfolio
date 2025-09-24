@@ -20,10 +20,6 @@ It showcases my skills, projects, and contact information.
 - CSS  
 - JavaScript  
 
-## 📸 Screenshots
-<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/a47cadfa-2fac-4122-b065-c67656158946" />
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/64848fb6-fcc4-4a5d-9fd5-d5b97db8c411" />
-
 ## 📬 Contact
 If you want to reach out, connect with me on:  
 
